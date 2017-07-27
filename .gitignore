@@ -1,0 +1,11 @@
+/vendor
+composer.lock
+.idea
+/static/config/*
+/static/task/*
+/static/log
+/ext/Generator/*
+/ext/Middleware/*
+/ext/Reporter/*
+/ext/Validator/*
+/ext/Worker/*
